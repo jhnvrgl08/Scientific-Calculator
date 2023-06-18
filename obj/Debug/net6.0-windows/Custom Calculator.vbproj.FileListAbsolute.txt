@@ -1,0 +1,18 @@
+C:\Users\johnq\OneDrive\Desktop\Custom Calculator\bin\Debug\net6.0-windows\Custom Calculator.exe
+C:\Users\johnq\OneDrive\Desktop\Custom Calculator\bin\Debug\net6.0-windows\Custom Calculator.deps.json
+C:\Users\johnq\OneDrive\Desktop\Custom Calculator\bin\Debug\net6.0-windows\Custom Calculator.runtimeconfig.json
+C:\Users\johnq\OneDrive\Desktop\Custom Calculator\bin\Debug\net6.0-windows\Custom Calculator.dll
+C:\Users\johnq\OneDrive\Desktop\Custom Calculator\bin\Debug\net6.0-windows\Custom Calculator.pdb
+C:\Users\johnq\OneDrive\Desktop\Custom Calculator\obj\Debug\net6.0-windows\Custom Calculator.vbproj.AssemblyReference.cache
+C:\Users\johnq\OneDrive\Desktop\Custom Calculator\obj\Debug\net6.0-windows\Custom_Calculator.Form1.resources
+C:\Users\johnq\OneDrive\Desktop\Custom Calculator\obj\Debug\net6.0-windows\Custom_Calculator.Resources.resources
+C:\Users\johnq\OneDrive\Desktop\Custom Calculator\obj\Debug\net6.0-windows\Custom Calculator.vbproj.GenerateResource.cache
+C:\Users\johnq\OneDrive\Desktop\Custom Calculator\obj\Debug\net6.0-windows\Custom Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnq\OneDrive\Desktop\Custom Calculator\obj\Debug\net6.0-windows\Custom Calculator.AssemblyInfoInputs.cache
+C:\Users\johnq\OneDrive\Desktop\Custom Calculator\obj\Debug\net6.0-windows\Custom Calculator.AssemblyInfo.vb
+C:\Users\johnq\OneDrive\Desktop\Custom Calculator\obj\Debug\net6.0-windows\Custom Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\johnq\OneDrive\Desktop\Custom Calculator\obj\Debug\net6.0-windows\Custom Calculator.dll
+C:\Users\johnq\OneDrive\Desktop\Custom Calculator\obj\Debug\net6.0-windows\refint\Custom Calculator.dll
+C:\Users\johnq\OneDrive\Desktop\Custom Calculator\obj\Debug\net6.0-windows\Custom Calculator.pdb
+C:\Users\johnq\OneDrive\Desktop\Custom Calculator\obj\Debug\net6.0-windows\Custom Calculator.genruntimeconfig.cache
+C:\Users\johnq\OneDrive\Desktop\Custom Calculator\obj\Debug\net6.0-windows\ref\Custom Calculator.dll
